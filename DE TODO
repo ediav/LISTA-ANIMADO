@@ -6,7 +6,13 @@ https://live.admefy.com/live/default/clean_peach_ef224.m3u8
 #EXTINF:-50 tvg-logo="https://i.postimg.cc/prwZsYms/magic.png" group-title="ANIME", MAGIC KIDS FANS
 https://live.admefy.com/live/clean_peach_ef224.m3u8
 
-#EXTINF:-50 tvg-logo="http://www.animeloving.net/aztv.png" group-title="ANIME", ANIME ZONE TV
+#EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://www.m3u.cl/logo/52_Dreiko_TV.png" group-title="ANIME", Dreiko TV | PA
+https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="905" tvg-name="Taltal TV" tvg-logo="https://www.m3u.cl/logo/905_Taltal_TV.png" group-title="ANIME", Taltal TV | CL
+https://ed5ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-50 tvg-logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png" group-title="ANIME", ANIME ZONE TV
 http://azxtv.com/hls/stream.m3u8
 
 #EXTINF:-52 tvg-logo="https://i.pinimg.com/originals/9e/e4/82/9ee482776ad4d76d67286f983460f85c.png" group-title="ANIME", LOCOMOTION
@@ -45,7 +51,51 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054acc871ec430007f
 #EXTINF:-54 tvg-logo="https://i.postimg.cc/Gt0XqS9T/Tokusato.png" group-title="ANIME 1", TOKUSATO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff608e60e2996000768c366/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d9becb2-96c0-11eb-9a85-37b72d037091&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ed471aea-2765-4138-85e6-f1d73d746ebb&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-id="807" tvg-name="LIM TV" tvg-logo="https://www.m3u.cl/logo/807_LIM_TV.jpg" group-title="DE TODO",, LIM TV * | PY
+#EXTINF:-1 tvg-id="807" tvg-name="LIM TV" tvg-logo="https://www.m3u.cl/logo/807_LIM_TV.jpg" group-title="DE TODO", LIM TV * | PY
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="47" tvg-name="CSTV" tvg-logo="https://www.m3u.cl/logo/47_CSTV.png"group-title="DE TODO", CSTV * | CL
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="46" tvg-name="El Chavo TV" tvg-logo="https://www.m3u.cl/logo/46_El_Chavo_TV.png" group-title="DE TODO", El Chavo TV * | CL
+https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="897" tvg-name="Retro Play TV" tvg-logo="https://www.m3u.cl/logo/897_Retro_Play_TV.png" group-title="DE TODO", Retro Play TV | CL
+https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="770" tvg-name="ZPTV" tvg-logo="https://www.m3u.cl/logo/770_ZPTV.png" group-title="DE TODO", ZPTV | CL
+https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="471" tvg-name="Cine Club" tvg-logo="https://www.m3u.cl/logo/471_Cine_Club.png" group-title="DE TODO", Cine Club | PE
+https://mediacpstreamchile.com:1936/walter/walter/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="472" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png" group-title="DE TODO", Mi TV Televisión Clásica | US
+https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://www.m3u.cl/logo/486_Orbit_TV.png" group-title="DE TODO", Orbit TV | DO
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="479" tvg-name="Retro TV Palmares" tvg-logo="https://www.m3u.cl/logo/479_Retro_TV_Palmares.png" group-title="DE TODO", Retro TV Palmares | CR
+http://tvretropalmares.com:8090/hls/envivo.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="475" tvg-name="Tele Mas" tvg-logo="https://www.m3u.cl/logo/475_Tele_Mas.png" group-title="DE TODO", Tele Mas | CR
+https://cp.sradiotv.com:1936/8064/8064/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="477" tvg-name="Telered" tvg-logo="https://www.m3u.cl/logo/477_Telered.png" group-title="DE TODO", Telered | CR
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="478" tvg-name="Telesistema" tvg-logo="https://www.m3u.cl/logo/478_Telesistema.png" group-title="DE TODO", Telesistema | CR
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://www.m3u.cl/logo/476_WOW_TV.png" group-title="DE TODO", WOW TV | SV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="891" tvg-name="TVMas Chile" tvg-logo="https://www.m3u.cl/logo/891_TVMas_Chile.webp" group-title="DE TODO", TVMas Chile | CL
+https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="67" tvg-name="Exprezion TV" tvg-logo="https://www.m3u.cl/logo/67_Exprezion_TV.png" group-title="DE TODO", Exprezion TV | CL
+https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="79" tvg-name="Telecanal Talca" tvg-logo="https://www.m3u.cl/logo/79_Telecanal_Talca.png" group-title="DE TODO", Telecanal Talca | CL
+https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8?PlaylistM3UCL
