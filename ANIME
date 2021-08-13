@@ -46,3 +46,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054acc871ec430007f
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff608e60e2996000768c366/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d9becb2-96c0-11eb-9a85-37b72d037091&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ed471aea-2765-4138-85e6-f1d73d746ebb&userId=&serverSideAds=true
 
 
+#EXTINF:-1 tvg-id="807" tvg-name="LIM TV" tvg-logo="https://www.m3u.cl/logo/807_LIM_TV.jpg" group-title="DE TODO",, LIM TV * | PY
+https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8?PlaylistM3UCL
+
